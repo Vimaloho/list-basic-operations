@@ -1,0 +1,12 @@
+/Users/workgroup/Projects/Directorio/Directorio/bin/Debug/netcoreapp3.1/Directorio.deps.json
+/Users/workgroup/Projects/Directorio/Directorio/bin/Debug/netcoreapp3.1/Directorio.runtimeconfig.json
+/Users/workgroup/Projects/Directorio/Directorio/bin/Debug/netcoreapp3.1/Directorio.runtimeconfig.dev.json
+/Users/workgroup/Projects/Directorio/Directorio/bin/Debug/netcoreapp3.1/Directorio.dll
+/Users/workgroup/Projects/Directorio/Directorio/bin/Debug/netcoreapp3.1/Directorio.pdb
+/Users/workgroup/Projects/Directorio/Directorio/obj/Debug/netcoreapp3.1/Directorio.csprojAssemblyReference.cache
+/Users/workgroup/Projects/Directorio/Directorio/obj/Debug/netcoreapp3.1/Directorio.AssemblyInfoInputs.cache
+/Users/workgroup/Projects/Directorio/Directorio/obj/Debug/netcoreapp3.1/Directorio.AssemblyInfo.cs
+/Users/workgroup/Projects/Directorio/Directorio/obj/Debug/netcoreapp3.1/Directorio.csproj.CoreCompileInputs.cache
+/Users/workgroup/Projects/Directorio/Directorio/obj/Debug/netcoreapp3.1/Directorio.dll
+/Users/workgroup/Projects/Directorio/Directorio/obj/Debug/netcoreapp3.1/Directorio.pdb
+/Users/workgroup/Projects/Directorio/Directorio/obj/Debug/netcoreapp3.1/Directorio.genruntimeconfig.cache

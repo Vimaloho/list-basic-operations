@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FB28D4BE-09B3-4E0A-9DC0-F1F65D083F6D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Directorio FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Directorio/ContactList.cs">
+    <Files>
+      <File FileName="Directorio/Program.cs" Line="1" Column="1" />
+      <File FileName="Directorio/Contact.cs" Line="12" Column="1" />
+      <File FileName="Directorio/ContactNode.cs" Line="11" Column="1" />
+      <File FileName="Directorio/ContactList.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Directorio" expanded="True">
+            <Node name="Directorio" expanded="True">
+              <Node name="ContactList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
